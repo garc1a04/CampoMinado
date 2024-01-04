@@ -2,7 +2,6 @@
 
 How you can play this game?
 
-<<<<<<< HEAD
 Below have the blog the How To Play Minesweeper for you understand about this game:
 
 [![](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://minesweepergame.com/strategy/how-to-play-minesweeper.php)
@@ -54,6 +53,3 @@ YOU WIN...  Do you want another match? (Yes/no)
 <div align="center">
     <img src="https://usagif.com/wp-content/uploads/gifs/handshake-2.gif" alt="Adios" align="center">
 <div\>
-=======
-Um jogo para prática de Programação Orientada a Objeto, Tratamento de Erros, Lambdas e API stream.
->>>>>>> a190ea72260680ae24081b247f2eb4de4cc82bf6
